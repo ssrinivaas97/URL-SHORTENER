@@ -13,6 +13,7 @@ Email must be from the domain northeastern.edu.
 Tier levels allowed are 'tier 1', 'tier 2', 'tier free'.
 
 ## 2. URL Shortening (/submiturl)
+
 Method: POST
 Description: Shortens a provided URL. Users can optionally specify a preferred short ID.
 Required Fields: longUrl, preferredShortId (optional)
