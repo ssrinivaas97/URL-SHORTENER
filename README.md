@@ -29,8 +29,11 @@ Special Notes: Returns a 404 error if the URL is not found.
 
 ## 4. Fetch User URLs (/user/getallurls)
 Method: GET
+
 Description: Retrieves all URLs associated with the authenticated user.
+
 Authentication: Requires Basic Authentication.
+
 Special Notes:
 Returns a list of URLs.
 Indicates if no URLs are found for the user.
